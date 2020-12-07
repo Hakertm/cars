@@ -4,7 +4,7 @@
 2. Student ID: 2365673
 3. Email: fryanov@chapman.edu
 4. Class: CPSC 298-02
-5. Assignment: numbers
+5. Assignment: cars
 
 # Application Purpose
 
